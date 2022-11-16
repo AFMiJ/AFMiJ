@@ -1,4 +1,4 @@
-Plugins to read and eleborate AFM data in ImageJ.
+#Plugins to read and eleborate AFM data in ImageJ.
 Requirements: a working Java >=1.8 installation. On Linux, openjdk is required.
 
 - AFMiJ_XX.zip: program distribution
