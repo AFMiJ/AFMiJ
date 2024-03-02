@@ -1,4 +1,4 @@
-### AFMiJ v 0.1.7 (25/10/2023)
+### AFMiJ v 0.1.8 (2/3/2024)
 Main changes:
 - added filter based on file size when reading multiple files with the "AFM data dir" tool
 - "AFM data dir" tool GUI reorganised
@@ -22,6 +22,12 @@ Main changes:
 - internal changes in the prefs system
 - bug corrections
 - ij.jar version 1.54f
+
+### AFMiJ v 0.1.7 (internal only)
+
+### AFMiJ v 0.1.6 (internal only)
+
+### AFMiJ v 0.1.5 (internal only)
 
 ### AFMiJ v 0.1.4c (03/11/2022)
 First release
