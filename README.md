@@ -1,5 +1,5 @@
 ## Plugins to open and analyze AFM data in ImageJ.
-Requirements: a working Java >=1.8 installation. On Linux, openjdk is required.
+Requirements: a working Java >=1.8 installation.
 
 - AFMiJ_XX.zip: program distribution
 - Examples.zip: some AFM data in tiff and gsf formats (unzip and drop some files to the \<<Drag and Drop\>> bar of AFMiJ)
