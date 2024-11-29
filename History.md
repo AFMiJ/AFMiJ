@@ -1,3 +1,15 @@
+### AFMiJ v 0.1.9a (29/11/2024)
+Main changes:
+- Added MacOS app for starting AFMiJ
+- improved rendering of false color scale window
+-  in AFMiJ Preferences
+	1) The Prefernce panel is now non-modal. Preferences can be used (tested) without saving them, if the panel remains open
+-  in AFMiJ Preferences/Measure
+	1) added a parameter to control the distance between ROI and text
+ 	2) now measure also works for freehand and segmented lines
+- removed bugs
+- ij.jar version 1.54k
+
 ### AFMiJ v 0.1.8 (2/3/2024)
 Main changes:
 - added filter based on file size when reading multiple files with the "AFM data dir" tool
