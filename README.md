@@ -1,4 +1,5 @@
 ## Plugins to open and analyze AFM data in ImageJ.
+## **Download zip files from Releases**
 **Requirements: a working Java >=1.8 installation**\
 **Source code is in the zip file**
 
